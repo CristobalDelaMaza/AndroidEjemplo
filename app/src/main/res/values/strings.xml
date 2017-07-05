@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Estructuras de control</string>
+    <string name="title_activity_basic_control">Controles Basicos</string>
+    <string name="title_activity_action_bar">ToolBar</string>
+</resources>
